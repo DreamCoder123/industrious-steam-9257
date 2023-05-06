@@ -1,5 +1,9 @@
 # REST API for Online Plant Nursery Management
-- We have developed this REST API for a Plant Nursery Management system Application. This API performs all the fundamental CRUD operations of any Plant Nursery Application platform with user validation at every step.
+The main objective this Online plant nursery management project is to build a system that will help customers to view available plants, seeds, planters with details and also they can place orders. Admin can perform CRUD operations on plants, seeds, and planters.
+
+Online Plant Nursery Management System is a Spring-Boot project Backend based application.
+
+This is a Group project executed in 5 days with 5 members of team.
 - This project is developed by team of 5 Back-end Developers during project week in Masai School.
 ## Tech Stack
 - Java
@@ -9,6 +13,8 @@
 - Hibernate
 - MySQL
 ## Modules
+![Modules](https://user-images.githubusercontent.com/104290715/236598961-e6e895fb-606c-42e3-8d96-d6176b29c24d.png)
+
 - Login, Logout Module
 - Admin Module
 - Plants Module
